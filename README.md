@@ -7,7 +7,7 @@ Como Peter recibe dinero cada dos semanas, decidió comprar dos libros, luego po
 Cada caso de prueba comienza con 2 ≤ N ≤ 10000, la cantidad de libros disponibles. La siguiente línea tendrá N números enteros, que representan el precio de cada libro, un libro cuesta menos de 1000001. Luego hay otra línea con un número entero M, que representa cuánto dinero tiene Peter. Hay una línea en blanco después de cada caso de prueba. La entrada termina con el final del archivo (EOF).
 
 ## Salida
-Para cada caso de prueba, debe imprimir el mensaje: **‘Peter debería comprar libros cuyos precios sean i y j.’**, donde i y j son los precios de los libros cuya suma es igual a M e i ≤ j. Puede considerar que siempre es posible encontrar una solución, si hay múltiples soluciones imprima la solución que minimice la diferencia entre los precios i y j. Después de cada caso de prueba, debe imprimir una línea en blanco.
+Para cada caso de prueba, debe imprimir el mensaje: ```Peter should buy books whose prices are i and j.```, donde i y j son los precios de los libros cuya suma es igual a M e i ≤ j. Puede considerar que siempre es posible encontrar una solución, si hay múltiples soluciones imprima la solución que minimice la diferencia entre los precios i y j. Después de cada caso de prueba, debe imprimir una línea en blanco.
 
 ## Entrada de muestra
 ```
