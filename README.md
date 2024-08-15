@@ -10,16 +10,20 @@ Cada caso de prueba comienza con 2 ≤ N ≤ 10000, la cantidad de libros dispon
 Para cada caso de prueba, debe imprimir el mensaje: **‘Peter debería comprar libros cuyos precios sean i y j.’**, donde i y j son los precios de los libros cuya suma es igual a M e i ≤ j. Puede considerar que siempre es posible encontrar una solución, si hay múltiples soluciones imprima la solución que minimice la diferencia entre los precios i y j. Después de cada caso de prueba, debe imprimir una línea en blanco.
 
 ## Entrada de muestra
-2 <br>
-40 40 <br>
+```
+2
+40 40 
 80
 
-5 <br>
-10 2 6 8 4 <br>
+5 
+10 2 6 8 4
 10
+```
 
 ## Salida de muestra
+```
 Peter should buy books whose prices are 40 and 40.
 
 Peter should buy books whose prices are 4 and 6.
 
+```
