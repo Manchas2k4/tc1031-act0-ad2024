@@ -27,3 +27,4 @@ Peter should buy books whose prices are 40 and 40.
 Peter should buy books whose prices are 4 and 6.
 
 ```
+[Fuente](https://onlinejudge.org/external/110/11057.pdf)
